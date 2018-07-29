@@ -32,7 +32,8 @@
               "src/assets/css/style.css",              
               "src/assets/css/sintax/shCore.css",
               "src/assets/css/sintax/shThemeRDark.css",
-              "src/assets/css/custom.css"
+              "src/assets/css/custom.css",
+              "src/assets/lib/hljs/styles/tomorrow-night.css"
             ],
             "scripts": [
               "node_modules/jquery/dist/jquery.min.js",
