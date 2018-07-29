@@ -23,9 +23,28 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/fonts/font-awesome/css/font-awesome.min.css",
+              "src/assets/css/stroke.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",              
+              "src/assets/css/animate.css",
+              "src/assets/css/prettyPhoto.css",
+              "src/assets/css/style.css",              
+              "src/assets/css/sintax/shCore.css",
+              "src/assets/css/sintax/shThemeRDark.css",
+              "src/assets/css/custom.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/popper.js/dist/umd/popper.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js",
+              "src/assets/js/retina.js",
+              "src/assets/js/jquery.fitvids.js",
+              "src/assets/js/wow.js",
+              "src/assets/js/jquery.prettyPhoto.js",
+              "src/assets/js/custom.js",
+              "src/assets/lib/hljs/highlight.pack.js"
+            ]
           },
           "configurations": {
             "production": {
